@@ -13,7 +13,7 @@
 **About Me!**
 
 - 👨🏽‍💻 I’m currently working as a FPT University.
-- 🌱 I’m currently exploring Java with a big interest in Website
+- 🌱 I'm currently exploring Java with a great interest write backend for website
 - 🤔 My interests are reading book, explore new techlogories, watching video 
 - 💼 I’m pursuing a Bachelor's degree in SoftWare Engineering
 - 💬 Ask me about anything, I love to answer!
