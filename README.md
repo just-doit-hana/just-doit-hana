@@ -1,10 +1,12 @@
 
-<h3 title="hehehe"> Hey 👋, I'm Zamran!</h3>
+<h3 title="hehehe"> Hey 👋, I'm Huy Tran !! I currently a student FPT University and my major is SoftWare Engineering from Ho Chi Minh City</h3>
 
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/quang-huy-234ba81a0/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:tranquanghuy.1512000@gmail.com)
 <br>
+<br>
+
 Hi there, I'm **Mohammad Zamran**, a **Software Engineering student** 🚀 from Lahore, Pakistan.
  <!-- Currently, I'm a Community Team Member 🙍🏽‍♂️ [@CallmeMehdi](https://github.com/CallmeMehdi), Kaggler 👨🏽‍💻 [@Kaggle](https://www.kaggle.com/mehdimabrouki), and an Artificial Intelligence intern 👨🏽‍💼.  -->
 
