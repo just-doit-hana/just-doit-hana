@@ -33,7 +33,7 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rutikwankhade&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=just-doit-hana&layout=compact)](https://github.com/just-doit-hana)
 
 <p align="center">
    <br/>
