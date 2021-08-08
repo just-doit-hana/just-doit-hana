@@ -4,15 +4,7 @@
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/quang-huy-234ba81a0/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:tranquanghuy.1512000@gmail.com)
-<a href="https://www.facebook.com/ZamranxD">
-  <img align="left" alt="Zamran's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
 <br>
-<br>
-<img src="https://komarev.com/ghpvc/?username=ZamranxD&color=blueviolet">
-<br />
-<br />
-
 Hi there, I'm **Mohammad Zamran**, a **Software Engineering student** 🚀 from Lahore, Pakistan.
  <!-- Currently, I'm a Community Team Member 🙍🏽‍♂️ [@CallmeMehdi](https://github.com/CallmeMehdi), Kaggler 👨🏽‍💻 [@Kaggle](https://www.kaggle.com/mehdimabrouki), and an Artificial Intelligence intern 👨🏽‍💼.  -->
 
