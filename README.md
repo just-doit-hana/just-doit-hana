@@ -1,5 +1,5 @@
 
-<h3 title="hehehe"> Hey 👋, I'm Huy Tran!! I currently a student FPT University and my major is SoftWare Engineering from Ho Chi Minh City</h3>
+<h3 title="hehehe"> Hey 👋, I'm Huy Tran! I'm currently a student FPT University and my major is SoftWare Engineering from Ho Chi Minh City</h3>
 
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/quang-huy-234ba81a0/)
