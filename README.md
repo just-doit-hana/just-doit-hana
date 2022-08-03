@@ -17,7 +17,7 @@
 - 🤔 My interests are reading book, explore new techlogories, watching video 
 - 💼 I’m pursuing a Bachelor's degree in SoftWare Engineering
 - 💬 Ask me about anything, I love to answer!
-- 📫 Email me at [tranquanghuy.1512000@gmail.com](tranquanghuy.1512000@gmail.com).
+- 📫 Email me at [huytqsoftware@gmail.com](huytqsoftware@gmail.com).
 
 
 **Working Languages and Tools:**  
